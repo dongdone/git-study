@@ -1,5 +1,5 @@
 # git-study
-删除第一行
+删除第一行 other add
 
 
 添加两行
